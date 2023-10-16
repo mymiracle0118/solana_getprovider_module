@@ -1,0 +1,29 @@
+{
+  "name": "getprovider",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@project-serum/anchor": "^0.20.1",
+    "@solana/web3.js": "^1.31.0",
+    "babel-eslint": "^10.1.0",
+    "bs58": "^5.0.0",
+    "firebase": "^8.6.8",
+    "firebase-admin": "^11.1.0",
+    "getprovider": "^1.0.0",
+    "google-spreadsheet": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.6",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-import-resolver-alias": "1.1.2",
+    "eslint-import-resolver-typescript": "2.5.0",
+    "eslint-plugin-import": "2.25.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
